@@ -3,7 +3,7 @@
 ## ML
 
 + [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
-+ [Sharifi Zarchi's ML course](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning)
++ [Sharifi Zarchi's ML course](https://www.sharifml.ir/)
 
 ## DL 
 
