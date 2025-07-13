@@ -1,10 +1,21 @@
-
-
 ## ML
 
 + [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)
+
 + [Sharifi Zarchi's ML course](https://www.sharifml.ir/)
     + [Gradient Descent](https://www.youtube.com/watch?v=i62czvwDlsw)
+    + [Bias & Variance Trade off](https://www.youtube.com/watch?v=B01qMFMAgUQ)
+    + [k-NN Cornell's lecture](https://www.youtube.com/watch?v=oymtGlGdT-k) 
+    + [Vornoi cells and decision boundary in k-NN](https://www.youtube.com/watch?v=PGy1rATkViA)
+    + [Precesion/Recall in accuracy MLU explain](https://mlu-explain.github.io/precision-recall/)
+    + [Performance Metrics](https://medium.com/@abhishekjainindore24/a-comprehensive-guide-to-performance-metrics-in-machine-learning-4ae5bd8208ce)
+    + [F1 Score](https://www.v7labs.com/blog/f1-score-guide)
+    + [Ensemble Learning](https://www.ibm.com/think/topics/ensemble-learning)
+    
+
++ [Cornell CS4780 Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
+
+
 
 ## DL 
 
