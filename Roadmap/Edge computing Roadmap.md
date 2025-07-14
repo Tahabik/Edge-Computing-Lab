@@ -11,6 +11,10 @@
     + [Performance Metrics](https://medium.com/@abhishekjainindore24/a-comprehensive-guide-to-performance-metrics-in-machine-learning-4ae5bd8208ce)
     + [F1 Score](https://www.v7labs.com/blog/f1-score-guide)
     + [Ensemble Learning](https://www.ibm.com/think/topics/ensemble-learning)
+    + K-Modes clustering:
+        + [GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/k-mode-clustering-in-python/)
+        + [Youtube Video](https://www.youtube.com/watch?v=b39_vipRkUo)
+    + [Hamming Distance, datacamp](https://www.datacamp.com/tutorial/hamming-distance)
     
 
 + [Cornell CS4780 Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
