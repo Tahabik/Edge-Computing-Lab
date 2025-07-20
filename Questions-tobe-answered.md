@@ -2,3 +2,5 @@
 + How can we Know Where to use which cost fucntion?
 + The whole "bias" concept and why?
 + Alternatives for SSE -> MAE, Huber Loss
++ Regularization
++ cross validation

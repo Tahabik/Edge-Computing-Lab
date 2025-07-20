@@ -17,9 +17,9 @@
     + [Hamming Distance, datacamp](https://www.datacamp.com/tutorial/hamming-distance)
     
 
-+ [Cornell CS4780 Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
-
 + [Mahdye Soleymani's ML course](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273)
+
++ [Cornell CS4780 Machine Learning for Intelligent Systems](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
 
 
