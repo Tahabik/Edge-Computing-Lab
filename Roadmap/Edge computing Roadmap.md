@@ -15,6 +15,9 @@
         + [GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/k-mode-clustering-in-python/)
         + [Youtube Video](https://www.youtube.com/watch?v=b39_vipRkUo)
     + [Hamming Distance, datacamp](https://www.datacamp.com/tutorial/hamming-distance)
+    + [Dimensionality Reduction, IBM](https://www.ibm.com/think/topics/dimensionality-reduction)\
+    + [Dimensionality Reduction: Principal Component Analysis, medium](https://medium.com/analytics-vidhya/dimensionality-reduction-principal-component-analysis-d1402b58feb1)
+    + [PCA, youtube video](https://www.youtube.com/watch?v=FgakZw6K1QQ&t=203s)
     
 
 + [Mahdye Soleymani's ML course](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273)
