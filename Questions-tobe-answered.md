@@ -4,3 +4,4 @@
 + Alternatives for SSE -> MAE, Huber Loss
 + Regularization
 + cross validation
++ Kernel based solutions
