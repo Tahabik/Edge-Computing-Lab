@@ -1,0 +1,3 @@
+### Hybrid of Deep Recurrent Neural and Long Short Term Memory for Rear-end Collision Detection in Fog based IoV
+
+This is a paper which contains a dataset. It's dataset contained feeatures **influencing** collision in IoV. It can be used by researchers to develop collision detection alarm system based on intelligent algorithms or any other suitable research within the context of IoV. The detailed description of the collision and preprocessing of the dataset can be found on the provided paper int this folder.
